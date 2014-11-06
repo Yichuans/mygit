@@ -2,6 +2,7 @@
 # 25 Feb 2013 Yichuan Shi
 # version 0.1
 
+# add a comment for git to see
 import os, sys, psycopg2, time
 
 class ConnectionParameter:
