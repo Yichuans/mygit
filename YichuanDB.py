@@ -3,6 +3,7 @@
 # version 0.1
 
 # add a comment for git to see
+# after git add, added another line
 import os, sys, psycopg2, time
 
 class ConnectionParameter:
