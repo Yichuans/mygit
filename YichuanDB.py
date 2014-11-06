@@ -4,6 +4,10 @@
 
 # add a comment for git to see
 # after git add, added another line
+
+
+# this is a branch commit
+
 import os, sys, psycopg2, time
 
 class ConnectionParameter:
